@@ -10,4 +10,4 @@ If you want to execute this code and send the output to a .txt file run:
 ```./bin > output.txt```
 
 To clen the unused files once done:
-```./bin > rm -f -r bin *.txt```
+```rm -f -r bin *.txt```
